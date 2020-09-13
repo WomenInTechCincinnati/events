@@ -1,10 +1,17 @@
-Cincinnati Software developers Megan Mulroy, Lorien Rensing and Alexx Mitchell will present lightning talks.
+Cincinnati Software developers Megan Mulroy, Lorien Rensing and Alexx Mitchell 
+will present lightning talks.
 
-Megan is a software engineer at Pure Romance and will be discussing her job search journey as a junior developer during a global pandemic and the challenges of finding and starting a new job when you have never been in the same room as anyone you work with.
+Megan is a software engineer at Pure Romance and will be discussing her job 
+search journey as a junior developer during a global pandemic and the challenges 
+of finding and starting a new job when you have never been in the same room as 
+anyone you work with.
 
-Lorien is a seasoned software engineer at Making Everlasting Memories in Cincinnati and will be discussing an overview of CI/CD.
+Lorien is a seasoned software engineer at Making Everlasting Memories in Cincinnati
+and will be discussing an overview of CI/CD.
 
-Alexx is a software engineer who has specialized in javascript and frontend development at P&G. She will be presenting her experiences and opinions on learning Android and Kotlin from a frontend background.
+Alexx is a software engineer who has specialized in javascript and frontend 
+development at P&G. She will be presenting her experiences and opinions on 
+learning Android and Kotlin from a frontend background.
 
 Link to recording: 
 https://www.youtube.com/watch?v=epsG2fuCSvY
