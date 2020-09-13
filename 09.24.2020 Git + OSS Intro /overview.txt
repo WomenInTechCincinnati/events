@@ -1,0 +1,49 @@
+Title: git commit (to memory): intro to open source and Github
+
+Join us for a crash course on git and contributing to Open Source 
+in preparation for Hacktoberfest!
+
+New to open source software contribution? Want to learn more about 
+the contributing process in GitHub? Need a refresher because it's 
+been awhile?
+
+Join us as we walk through some of the basics of git and navigating 
+Github and how to use these tools to participate in Hacktoberfest 
+2020! Bring your questions!
+
+For more information about Hacktoberfest, visit 
+https://hacktoberfest.digitalocean.com/
+
+But wait! This event changed since the last time I was on this 
+page - why is that?
+We wanted to cover the basics of git this month so that you can 
+get started on October 1st and earn your free t-shirt even earlier 
+(or you can also wait until our October event to get started)! 
+There are a lot of beginner projects available during Hacktoberfest 
+to start with and get comfortable with git and opensource!
+
+Do I have to actually commit this to memory to be successful?
+Absolutely not! There are many, many guides and cheatsheets for git 
+commands and we've all looked them up. It might eventually become 
+muscle memory tho!
+
+Will you still be doing technical talks on some projects I can 
+contribute to?
+Yes! We're busy planning our October event which will (should) 
+feature tech projects you can contribute to and technical overviews 
+of those projects. In the meantime, feel free to post about your 
+issues in our slack or facebook if you get stuck or need suggestions 
+for issues.
+
+Will this be recorded?
+Yes! This way, you can reference it when you're working on issues on 
+your own time. (But don't worry, we will recorded it in speaker 
+view so that only Sandi and her presentation are in view.)
+
+Link to recording: 
+Available shortly after the event! 
+
+Link to event: 
+https://www.meetup.com/Women-Who-Code-Cincinnati/events/272366010/
+
+
