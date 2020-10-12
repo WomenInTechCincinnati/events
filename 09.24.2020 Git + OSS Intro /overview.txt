@@ -1,3 +1,5 @@
+LINK TO RECORDING: https://youtu.be/ZRrzSAz9uOo
+
 Title: git commit (to memory): intro to open source and Github
 
 Join us for a crash course on git and contributing to Open Source 
@@ -41,7 +43,7 @@ your own time. (But don't worry, we will recorded it in speaker
 view so that only Sandi and her presentation are in view.)
 
 Link to recording: 
-Available shortly after the event! 
+https://youtu.be/ZRrzSAz9uOo
 
 Link to event: 
 https://www.meetup.com/Women-Who-Code-Cincinnati/events/272366010/
