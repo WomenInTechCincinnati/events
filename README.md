@@ -3,8 +3,10 @@
 Register for our upcoming events on [meetups](https://www.meetup.com/Women-Who-Code-Cincinnati/)!
 
 ### Overview of our events
-10/24/2020 Hacktoberfest OSS workshop
-  [Intro to JSON](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/intro-to-json.pdf) to add yourself, resources, and quotes to  our [database project](https://github.com/WomenWhoCodeCincy/wwcode-cincy-database), [Intro to Gatsby](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/Ghostly%20Gatsby.pdf) to contribute to our [frontend project](https://github.com/WomenWhoCodeCincy/WomenWhoCodeCincy.github.io), and [Intro to Flutter](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/intro-to-flutter.pdf) to contribute to our [mobile project](https://github.com/WomenWhoCodeCincy/flutter-starter-app)
+10/24/2020 Hacktoberfest OSS workshop  
+  - [Intro to JSON](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/intro-to-json.pdf) to add yourself, resources, and quotes to  our [database project](https://github.com/WomenWhoCodeCincy/wwcode-cincy-database)  
+  -[Intro to Gatsby](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/Ghostly%20Gatsby.pdf) to contribute to our [frontend project](https://github.com/WomenWhoCodeCincy/WomenWhoCodeCincy.github.io)  
+  - [Intro to Flutter](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/intro-to-flutter.pdf) to contribute to our [mobile project](https://github.com/WomenWhoCodeCincy/flutter-starter-app)
 09/24/2020 [Git + OSS Intro](https://github.com/WomenWhoCodeCincy/events/tree/master/09.24.2020%20Git%20%2B%20OSS%20Intro%20) by Sandi Ritter  
 08/22/2020 [Saturday Morning Book Club](https://github.com/WomenWhoCodeCincy/events/tree/master/08.22.2020%20Saturday%20Morning%20Book%20Club) group discussion  
 07/23/2020 [Lightning Talks](https://github.com/WomenWhoCodeCincy/events/tree/master/07.23.2020%20Lightning%20Talks%20) by Megan Mulroy, Lorien Rensing, and Alexx Mitchell  
