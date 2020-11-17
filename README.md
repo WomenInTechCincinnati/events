@@ -3,6 +3,10 @@
 Register for our upcoming events on [meetups](https://www.meetup.com/Women-Who-Code-Cincinnati/)!
 
 ### Overview of our events
+11/19/2020 [Move Forward Fast with Tailwind!](https://github.com/WomenWhoCodeCincy/events/tree/master/11.19.2020%20Tailwind) by Eric Boggs   
+  - [overview](https://github.com/WomenWhoCodeCincy/events/blob/master/11.19.2020%20Tailwind/overview.md)   
+  - slides   
+  - recording  
 10/24/2020 Hacktoberfest OSS workshop  
   - [Intro to JSON](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/intro-to-json.pdf) to add yourself, resources, and quotes to  our [database project](https://github.com/WomenWhoCodeCincy/wwcode-cincy-database)  
   - [Intro to Gatsby](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/Ghostly%20Gatsby.pdf) to contribute to our [frontend project](https://github.com/WomenWhoCodeCincy/WomenWhoCodeCincy.github.io)  
