@@ -2,7 +2,7 @@
 Hosted by [Women Who Code Cincinnat](https://www.womenwhocode.com/cincinnati) on [meetups](https://www.meetup.com/Women-Who-Code-Cincinnati/events/273250804/)  
 November 19 2020 at 6:00 pm EST   
 
-Check out the slides and video (to be posted)  
+Check out the [slides](https://docs.google.com/presentation/d/1AFEi5Tb-KHAjm1SL0P63x0QbWYItIsh2ttjQJ1gwlfw/edit#slide=id.gac793c3bbf_0_482) and video (to be posted)  
 
 ### Overview
 Are you interested in branching out from [Bootstrap](https://getbootstrap.com/docs/3.4/css/)? Try Tailwind! It's a rapidly growing, utility-first CSS framework. [Tailwind](https://tailwindcss.com/) doesn't have a default theme, and there are no built-in UI components. Instead, Tailwind provides you with a set of easy to remember [CSS](https://dev.to/ladybug/css-cheat-sheets-3ee0) helper classes, allowing you to create custom, responsive designs with ease.
