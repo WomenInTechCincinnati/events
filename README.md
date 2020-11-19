@@ -4,7 +4,7 @@ Register for our upcoming events on [meetups](https://www.meetup.com/Women-Who-C
 
 ### Overview of our events
 11/19/2020 [Move Forward Fast with Tailwind!](https://github.com/WomenWhoCodeCincy/events/tree/master/11.19.2020%20Tailwind) by Eric Boggs   
-  - [overview](https://github.com/WomenWhoCodeCincy/events/blob/master/11.19.2020%20Tailwind/overview.md#move-forward-fast-with-tailwind) + [slides](https://docs.google.com/presentation/d/1AFEi5Tb-KHAjm1SL0P63x0QbWYItIsh2ttjQJ1gwlfw/edit#slide=id.gac793c3bbf_0_482) + recording  
+  - [overview](https://github.com/WomenWhoCodeCincy/events/blob/master/11.19.2020%20Tailwind/overview.md#move-forward-fast-with-tailwind) + [slides](https://docs.google.com/presentation/d/1AFEi5Tb-KHAjm1SL0P63x0QbWYItIsh2ttjQJ1gwlfw/edit#slide=id.gac793c3bbf_0_482) + recording (coming soon) 
   
 10/24/2020 Hacktoberfest OSS workshop  
   - [Intro to JSON](https://github.com/WomenWhoCodeCincy/events/blob/master/10.24.2020%20Hacktoberfest/intro-to-json.pdf) to add yourself, resources, and quotes to  our [database project](https://github.com/WomenWhoCodeCincy/wwcode-cincy-database)  
