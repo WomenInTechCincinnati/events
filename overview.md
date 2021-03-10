@@ -1,4 +1,4 @@
-### About the Speakers      
+### Welcome        
 
 Women Who Code Cincinnati is excited to collaborate with getWITit Cincinnati and INTERalliance for a celebration of women in tech in Cincinnati for Women's History Month. Every woman has a unique story to tell and we want to celebrate and share the stories and achievements of women in tech in Cincinnati. We are honored to host our esteemed panel of guests to share their journeys of becoming technical leaders in this moderated Q&A session. We hope you will join us!      
   
@@ -11,6 +11,7 @@ Senior Software Engineer, P&G
 Panelist    
 
 Lauren Brongersma is a front end developer at P&G. Her day to day consists of building web and mobile interfaces that are accessible and performant. She built her first website in middle school, but didn't know it could be a career until she saw a talk on non-traditional paths into tech after working in healthcare for five years. Lauren got her first development job with a small responsive website she built in a Girl Develop It course and has never looked back. Since her career change seven years ago, she has worked on projects as small as landing pages for local businesses and as large as e-commerce sites and mobile apps for P&G brands. She previously acted as a chapter leader for Cincinnati Girl Develop It, giving back to the community that helped her get where she is today. When she isn't coding, she likes to travel, scuba dive, hike, assemble puzzles, and play Animal Crossing.    
+
   
 [Rachel Folz](https://www.linkedin.com/in/rachelfolz/) (she/her)  
 Director of Product, Cerkl    
@@ -21,6 +22,7 @@ Rachel Folz brought her passion for taking great ideas and turning them into rea
 Rachel's purpose in life is to simplify the complicated and to grow people while she's at it. In her role at Cerkl, she works with designers, customer success people, and engineers to research, create, and launch solutions that make communicators jobs easier. Product leadership is part tech, part design, and a whole lot of user empathy.     
 
 Rachel serves as the Chapter Co-Lead for Women in Product Cincinnati. In her free time, Rachel loves listening to podcasts, walking her geriatric rescue dog, and reading very important and unimportant books.     
+
 
 [Lillian Chow](https://www.linkedin.com/in/lillian-chow/) (she/her)    
 Product Manager, Branch Insurance   
