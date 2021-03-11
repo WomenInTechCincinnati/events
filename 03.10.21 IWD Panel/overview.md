@@ -17,7 +17,7 @@ Panelist
 IT Analyst III, Total Quality Logistics (she/her)    
 Panelist.    
 
-Stacee Johnson is a loving wife, humbled mother, devoted sister, and seasoned IT Analyst who has served in multiple industries including logistics, consumer and business financing, and collections. As an analyst and leader, she has been able to support and mentor many team members to reach their greater potential. Her passion being people and untapped opportunities, Stacee has been driven in efforts of increase diversity and inclusion, communication and candor, and continuous improvement in the organizations she serves. She is cofounder of  UpScale Consulting LLC, a small business which serves to consult and guide entrepreneurs and small business owners to greater success. Stacee strives to bring positivity, hope and passion to the people and places around her.
+[Stacee Johnson](https://www.linkedin.com/in/stacee-johnson/) is a loving wife, humbled mother, devoted sister, and seasoned IT Analyst who has served in multiple industries including logistics, consumer and business financing, and collections. As an analyst and leader, she has been able to support and mentor many team members to reach their greater potential. Her passion being people and untapped opportunities, Stacee has been driven in efforts of increase diversity and inclusion, communication and candor, and continuous improvement in the organizations she serves. She is cofounder of  UpScale Consulting LLC, a small business which serves to consult and guide entrepreneurs and small business owners to greater success. Stacee strives to bring positivity, hope and passion to the people and places around her.
 
   
 ### Rachel Folz   
