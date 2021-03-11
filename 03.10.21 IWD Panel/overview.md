@@ -12,6 +12,13 @@ Panelist
 
 [Lauren Brongersma](https://www.linkedin.com/in/lauren-brongersma/) is a front end developer at P&G. Her day to day consists of building web and mobile interfaces that are accessible and performant. She built her first website in middle school, but didn't know it could be a career until she saw a talk on non-traditional paths into tech after working in healthcare for five years. Lauren got her first development job with a small responsive website she built in a Girl Develop It course and has never looked back. Since her career change seven years ago, she has worked on projects as small as landing pages for local businesses and as large as e-commerce sites and mobile apps for P&G brands. She previously acted as a chapter leader for Cincinnati Girl Develop It, giving back to the community that helped her get where she is today. When she isn't coding, she likes to travel, scuba dive, hike, assemble puzzles, and play Animal Crossing.    
 
+
+### Stacee Johnson    
+IT Analyst III, Total Quality Logistics (she/her)    
+Panelist.    
+
+Stacee Johnson is a loving wife, humbled mother, devoted sister, and seasoned IT Analyst who has served in multiple industries including logistics, consumer and business financing, and collections. As an analyst and leader, she has been able to support and mentor many team members to reach their greater potential. Her passion being people and untapped opportunities, Stacee has been driven in efforts of increase diversity and inclusion, communication and candor, and continuous improvement in the organizations she serves. She is cofounder of  UpScale Consulting LLC, a small business which serves to consult and guide entrepreneurs and small business owners to greater success. Stacee strives to bring positivity, hope and passion to the people and places around her.
+
   
 ### Rachel Folz   
 Director of Product, Cerkl (she/her)    
