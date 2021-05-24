@@ -3,6 +3,9 @@
 Register for our upcoming events on [meetups](https://www.meetup.com/Women-Who-Code-Cincinnati/)!
 
 ### Overview of our events
+05/20/2021 [WCAG: A Developer’s Best Friend](https://www.meetup.com/Women-Who-Code-Cincinnati/events/275703255/) by Natalie Stroud     
+  - [materials](https://github.com/WomenWhoCodeCincy/events/blob/master/05.20.2021%20Accessibility/WCAG-WWC.pdf)      
+
 11/19/2020 [Move Forward Fast with Tailwind!](https://github.com/WomenWhoCodeCincy/events/tree/master/11.19.2020%20Tailwind) by Eric Boggs   
   - [overview](https://github.com/WomenWhoCodeCincy/events/blob/master/11.19.2020%20Tailwind/overview.md#move-forward-fast-with-tailwind) + [slides](https://docs.google.com/presentation/d/1AFEi5Tb-KHAjm1SL0P63x0QbWYItIsh2ttjQJ1gwlfw/edit#slide=id.gac793c3bbf_0_482) + recording (coming soon) 
   
